@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Shanzay! :)
 
-<!--
-**shanzayshahid/shanzayshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior undergraduate student at UC San Diego focused on the intersection of biomedical research, biotechnology, and computational science.
 
-Here are some ideas to get you started:
+🧬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying Cognitive and Behavioral Neuroscience at UC San Diego
+🔬 Previously conducted biomedical research at Stanford Medicine's Majeti Lab, focusing on leukemia research and CAR-T cell therapy
+🧠 Interested in cancer biology, immunotherapy, genomics, and translational research
+💡 Passionate about exploring how technology can advance healthcare and biomedical discovery
+
+🌱 Currently Learning
+
+Python programming
+Polishing skills in R, SnapGene, and FlowJo flow cytometry analysis
+Data analysis and visualization 
+Computational biology
+Machine learning applications in healthcare
+
+🔭 Areas of Interest
+
+Biotechnology and biomedical innovation
+Cancer research and immunotherapy
+Genomics and personalized medicine
+Healthcare technology
+
+🤝 Looking to Collaborate On
+
+Projects involving life sciences, biotechnology, healthcare innovation, and data analytics.
+
+📫 Connect With Me
+
+GitHub: @shanzayshahid
+LinkedIn: www.linkedin.com/in/shanzayshahid

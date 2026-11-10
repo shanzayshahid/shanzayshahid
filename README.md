@@ -21,6 +21,16 @@ I'm a Junior undergraduate student at UC San Diego focused on the intersection o
 - Machine learning applications in healthcare
 - Bioethics and the use of AI for healthcare
 
+🔬 Currently Building
+
+Joint Surgery Infection Biomarker Project | Independent Computational Research
+
+- Developing an independent bioinformatics project investigating gene-expression differences associated with infection following joint replacement surgery.
+- Exploring publicly available human transcriptomic datasets through NCBI Gene Expression Omnibus (GEO).
+- Planning an R-based analysis workflow involving data preprocessing, quality control, differential gene expression, and data visualization.
+- Exploring potential gene candidates and biological pathways associated with infection.
+- Tools & Methods: R, RStudio, NCBI GEO, transcriptomic analysis, bioinformatics
+
 🔭 Areas of Interest
 
 

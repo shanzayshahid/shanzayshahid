@@ -1,4 +1,4 @@
-Hi, I'm Shanzay! :)
+Hi, I'm Shanzay :)
 
 I'm a Junior undergraduate student at UC San Diego focused on the intersection of biomedical research, biotechnology, and computational science.
 

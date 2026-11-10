@@ -35,4 +35,5 @@ I'm a Junior undergraduate student at UC San Diego focused on the intersection o
 📫 Connect With Me
 
 GitHub: @shanzayshahid
+
 LinkedIn: www.linkedin.com/in/shanzayshahid

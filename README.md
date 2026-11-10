@@ -4,24 +4,37 @@ I'm a Junior undergraduate student at UC San Diego focused on the intersection o
 
 🧬 About Me
 
+
 🎓 Studying Cognitive and Behavioral Neuroscience at UC San Diego
+
 🔬 Previously conducted biomedical research at Stanford Medicine's Majeti Lab, focusing on leukemia research and CAR-T cell therapy
+
 🧠 Interested in cancer biology, immunotherapy, genomics, and translational research
+
 💡 Passionate about exploring how technology can advance healthcare and biomedical discovery
 
 🌱 Currently Learning
 
+
 Python programming
+
 Polishing skills in R, SnapGene, and FlowJo flow cytometry analysis
+
 Data analysis and visualization 
+
 Computational biology
+
 Machine learning applications in healthcare
 
 🔭 Areas of Interest
 
+
 Biotechnology and biomedical innovation
+
 Cancer research and immunotherapy
+
 Genomics and personalized medicine
+
 Healthcare technology
 
 🤝 Looking to Collaborate On

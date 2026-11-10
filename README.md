@@ -7,6 +7,7 @@ I'm a Junior undergraduate student at UC San Diego focused on the intersection o
 
 - 🎓 Studying Cognitive and Behavioral Neuroscience at UC San Diego
 - 🔬 Previously conducted biomedical and biotechnological research at Stanford Medicine's Majeti Lab, focusing on leukemia research and CAR-T cell therapy, engineering AND-gated CAR-T cells
+- Staying involved in AML CAR-T cell therapy research in the lab, literature surveillance
 - 🧠 Interested in cancer biology, immunotherapy, genomics, and translational research
 - 💡 Passionate about exploring how technology can advance healthcare and biomedical discovery
 

@@ -14,7 +14,7 @@ I'm a Junior undergraduate student at UC San Diego focused on the intersection o
 
 
 - Python programming
-- Polishing skills in R, SnapGene, and FlowJo flow cytometry analysis
+- Polishing skills in R, SnapGene, and FlowJo
 - Data analysis and visualization 
 - Computational biology
 - Machine learning applications in healthcare
